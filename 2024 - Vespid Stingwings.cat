@@ -39,9 +39,9 @@
         <profile name="Vespid Skyblast" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="472f-c171-0bee-e985">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
           </characteristics>
         </profile>
         <profile name="Neutron Fallout" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="f3ac-f188-010d-a871">
@@ -146,9 +146,9 @@
         <profile name="Vespid Warrior" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="1da0-b40e-fe05-ba6a">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -213,9 +213,9 @@
         <profile name="Oversight Drone" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="20b8-be27-19c5-4cfc">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">8&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">2+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">8&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">2+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
           </characteristics>
         </profile>
         <profile name="Evasive Drone" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="075f-4fcc-875e-f9a0">
@@ -341,9 +341,9 @@
         <profile name="Vespid Shadestrain" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="5fce-e400-837b-e662">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
           </characteristics>
         </profile>
         <profile name="Ghost Rig" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="2019-eb9d-802f-acba">
@@ -571,9 +571,9 @@
     <profile name="Shape Reference" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="44f4-ed9d-45fa-a20e">
       <characteristics>
         <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">⌖</characteristic>
-        <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
-        <characteristic name="Save" typeId="3241-5548-12d6-f103">▶</characteristic>
-        <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
+        <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
+        <characteristic name="SV" typeId="3241-5548-12d6-f103">▶</characteristic>
+        <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>

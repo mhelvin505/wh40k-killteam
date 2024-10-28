@@ -14,9 +14,9 @@
         <profile name="Dire Avenger Exarch" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="45fe-c6eb-b724-6ea6">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -205,9 +205,9 @@
         <profile name="Dire Avenger" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="9669-0ab7-288f-612e">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -351,9 +351,9 @@
         <profile name="Striking Scorpion Exarch" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="407f-948e-ef02-cdc0">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -387,9 +387,9 @@
         <profile name="Striking Scorpion Warrior" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="bf5f-cc07-fee3-9a2c">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -439,9 +439,9 @@
         <profile name="Howling Banshee Exarch" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="0bf7-4dbb-cf68-5d23">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -620,9 +620,9 @@
         <profile name="Howling Banshee Warrior" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="7573-3caf-7989-6bf2">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
       </profiles>

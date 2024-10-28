@@ -126,9 +126,9 @@
         <profile name="Navis Sergeant-At-Arms" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="d914-636f-7e2f-47f3">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Command Breach" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="7f35-a279-453f-df4d">
@@ -240,9 +240,9 @@
         <profile name="Navis Armsman" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="b316-3330-2f29-0ab2">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Group Activation" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="da55-22ea-d3fd-1ec8">
@@ -276,9 +276,9 @@
         <profile name="Navis Hatchcutter" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="49c3-b61a-df57-a778">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Weld Shut (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="99dc-7311-bbcb-ec12">
@@ -335,9 +335,9 @@
         <profile name="Navis Void-Jammer" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="42e6-ffab-4dc2-6a19">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Interference Pulse (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="8a8a-4cae-79b7-a75c">
@@ -398,9 +398,9 @@
         <profile name="Navis Gunner" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="c29b-b605-cc31-81cd">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -540,9 +540,9 @@
         <profile name="Navis Grenadier" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="721d-e34b-e143-6e2f">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Grenadier" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="e1df-8f5a-2de4-3f54">
@@ -605,9 +605,9 @@
         <profile name="Navis Gheistskull" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="c32a-197e-5c81-d287">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">8&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">8&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
           </characteristics>
         </profile>
         <profile name="Expendable" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="4e49-261b-4341-09e6">
@@ -641,9 +641,9 @@
         <profile name="Navis Endurant" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="f7e6-8dad-5623-6cff">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">4&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">2+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">4&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">2+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="Breachwall" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="e35d-a641-cc12-63c1">
@@ -743,9 +743,9 @@
         <profile name="Navis C.A.T. Unit" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="394b-0edf-f763-ba0e">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">8&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">8&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
           </characteristics>
         </profile>
         <profile name="Machine" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="c5a1-f470-066b-a754">
@@ -778,9 +778,9 @@
         <profile name="Navis Axejack" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="49f8-390b-a38c-a48e">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Emboldened" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="cf84-6fab-920e-8ef2">
@@ -922,9 +922,9 @@
         <profile name="Navis Surveyor" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="9e7c-7153-1485-9f88">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Wayfind (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="aa9a-5594-e783-8ba3">
@@ -1085,9 +1085,9 @@ Friendly **IMPERIAL NAVY BREACHER** operatives aren’t affected by the x&quot;
     <profile name="Shape Reference" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="5016-56c0-9791-29df">
       <characteristics>
         <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">⌖</characteristic>
-        <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
-        <characteristic name="Save" typeId="3241-5548-12d6-f103">▶</characteristic>
-        <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
+        <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
+        <characteristic name="SV" typeId="3241-5548-12d6-f103">▶</characteristic>
+        <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>

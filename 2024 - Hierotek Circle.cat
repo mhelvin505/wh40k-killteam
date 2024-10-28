@@ -94,9 +94,9 @@
         <profile name="Apprentek" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="6d6f-384c-b89a-1c06">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">11</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">11</characteristic>
           </characteristics>
         </profile>
         <profile name="Apprentek Assistance" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="76d4-a47b-3f21-4685">
@@ -158,9 +158,9 @@
         <profile name="Technomancer" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="30c8-1154-f649-f52a">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">14</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">14</characteristic>
           </characteristics>
         </profile>
         <profile name="Canoptek Repair (1 AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="bc53-626c-74ea-b465">
@@ -314,9 +314,9 @@
         <profile name="Chronomancer" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="644f-2789-e4df-228f">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">14</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">14</characteristic>
           </characteristics>
         </profile>
         <profile name="Chronometron (1 AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="b0be-050d-4b7d-65e2">
@@ -366,9 +366,9 @@ enemy operative.</characteristic>
         <profile name="Plasmacyte Accelerator" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="3fa4-03a6-450a-3ab7">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
           </characteristics>
         </profile>
         <profile name="Accelerate (1 AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="da50-3f90-17f9-323f">
@@ -441,9 +441,9 @@ enemy operative.</characteristic>
         <profile name="Plasmacyte Reanimator" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="a307-a6d0-6f59-bd25">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
           </characteristics>
         </profile>
         <profile name="Reanimate (1 AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="6162-7dd8-5430-4cc3">
@@ -515,9 +515,9 @@ enemy operative.</characteristic>
         <profile name="Immortal Guardian" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="63d3-dc0f-58c9-c8aa">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -566,9 +566,9 @@ enemy operative.</characteristic>
         <profile name="Deathmark" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="8876-2e5c-eb01-a34a">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="Multi-dimensional vision (1 AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="9870-7957-798e-e5e4">
@@ -657,9 +657,9 @@ enemy operative.</characteristic>
         <profile name="Immortal Despotek" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="d251-386c-ad71-f88a">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">11</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">11</characteristic>
           </characteristics>
         </profile>
       </profiles>

@@ -12,9 +12,9 @@
         <profile name="Kommando Dakka Boy" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="903a-55fa-2389-6f54">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="Dakka Dash (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="30cf-f288-cbf5-b4ff">
@@ -67,9 +67,9 @@
         <profile name="Kommando Boss Nob" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="04be-a907-4556-d8a3">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">14</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">14</characteristic>
           </characteristics>
         </profile>
         <profile name="Get It Dun! (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="6975-995d-fca4-8285">
@@ -144,9 +144,9 @@
         <profile name="Bomb Squig" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="c131-ea2f-ee2d-8db6">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
           </characteristics>
         </profile>
         <profile name="Boom!" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="33cf-89fb-ad27-1f9c">
@@ -220,9 +220,9 @@
         <profile name="Kommando Boy" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="5445-2135-3771-f18f">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="Taktical Wot-notz" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="5650-536b-d8a3-c092">
@@ -273,9 +273,9 @@ The rules for these actions are found in universal equipment. Performing these 
         <profile name="Kommando Breacha Boy" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="3955-bc58-974f-16cb">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="Breach (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="5ace-ecf5-58c6-e32b">
@@ -328,9 +328,9 @@ The rules for these actions are found in universal equipment. Performing these 
         <profile name="Kommando Burna Boy" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="1f02-3fcf-d0cf-ac69">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -392,9 +392,9 @@ The rules for these actions are found in universal equipment. Performing these 
         <profile name="Kommando Comms Boy" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="b2da-cfb4-7831-fe98">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="I Got a Plan, Ladz" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="ff85-8b76-e761-9a41">
@@ -445,9 +445,9 @@ The rules for these actions are found in universal equipment. Performing these 
         <profile name="Kommando Grot" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="27d5-b2c2-dddc-2fd4">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">5</characteristic>
           </characteristics>
         </profile>
         <profile name="Sneaky Zogger" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="e77c-a9ca-fd29-1df8">
@@ -530,9 +530,9 @@ The rules for these actions are found in universal equipment. Performing these 
         <profile name="Kommando Rokkit Boy" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="0b0e-4fb1-5a2c-f64a">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -548,9 +548,9 @@ The rules for these actions are found in universal equipment. Performing these 
         <profile name="Kommando Slasha Boy" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="4575-39db-1f77-957c">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="Dat All You Got?" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="258b-2d79-729c-1050">
@@ -613,9 +613,9 @@ The rules for these actions are found in universal equipment. Performing these 
         <profile name="Kommando Snipa Boy" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="de5f-4e95-f4df-d8ff">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -813,9 +813,9 @@ The rules for these actions are found in universal equipment. Performing these 
     <profile name="Shape Reference" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="d6dc-f923-8235-b070">
       <characteristics>
         <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">⌖</characteristic>
-        <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
-        <characteristic name="Save" typeId="3241-5548-12d6-f103">▶</characteristic>
-        <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
+        <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
+        <characteristic name="SV" typeId="3241-5548-12d6-f103">▶</characteristic>
+        <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>

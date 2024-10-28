@@ -149,9 +149,9 @@
         <profile name="Voidscarred Felarch" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="c2d7-5bbc-b630-8bac">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
           </characteristics>
         </profile>
         <profile name="Veteran Raider" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="b030-efc7-84ac-2d22">
@@ -223,9 +223,9 @@
         <profile name="Voidscarred Fate Dealer" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="67fc-c624-4c3a-84c5">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Camo Cloak" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="55ef-82cb-d452-c24d">
@@ -319,9 +319,9 @@
         <profile name="Voidscarred Gunner" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="ed7d-4044-cc02-db33">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -419,9 +419,9 @@
         <profile name="Voidscarred Heavy Gunner" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="d420-f52b-677a-191b">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -438,9 +438,9 @@
         <profile name="Voidscarred Kurnathi" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="da3c-e772-e497-8faa">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Blademaster" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="0cc2-44c5-2a74-6bf0">
@@ -497,9 +497,9 @@
         <profile name="Voidscarred Kurnite Hunter" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="3c81-5d7a-54d2-ecf0">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Faolchú&apos;s Bond" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="a6c4-0a6d-df73-f9c9">
@@ -557,9 +557,9 @@
         <profile name="Voidscarred Shade Runner" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="590b-065c-7880-b3c6">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Blink pack" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="0746-a059-96fe-bc4b">
@@ -650,9 +650,9 @@
         <profile name="Voidscarred Soul Weaver" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="240b-5f3d-4546-fc91">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Soul Channel (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="4f98-c04c-933b-5e79">
@@ -683,9 +683,9 @@
         <profile name="Voidscarred Starstorm Duellist" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="727a-e57e-2e0b-d2f4">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Quick on the Trigger" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="2bd9-5571-73e3-6fd5">
@@ -757,9 +757,9 @@
         <profile name="Voidscarred Warrior" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="207c-96c3-5156-8311">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Prowling Raiders" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="3cd8-04d2-7449-d39a">
@@ -824,9 +824,9 @@
         <profile name="Voidscarred Way Seeker" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="e9fe-f581-979b-4586">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">7&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Warp Fold (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="1fde-b5ad-20f4-100b">
@@ -1055,9 +1055,9 @@
     <profile name="Shape Reference" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="c48d-c10a-0f0a-f38c">
       <characteristics>
         <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">⌖</characteristic>
-        <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
-        <characteristic name="Save" typeId="3241-5548-12d6-f103">▶</characteristic>
-        <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
+        <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
+        <characteristic name="SV" typeId="3241-5548-12d6-f103">▶</characteristic>
+        <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>

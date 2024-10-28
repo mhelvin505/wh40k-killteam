@@ -165,9 +165,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Shas&apos;ui Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="7bd5-a980-bbc4-74d9">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -247,9 +247,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Blooded Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="3877-1a53-67c9-38ed">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -284,9 +284,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Transpectral Interference Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="aaeb-c1c6-62ba-5475">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Multi-Dimensional Vision (1 AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="b5a3-7bca-f268-1acb">
@@ -331,9 +331,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Weapons Expert Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="411a-7cbe-b580-454c">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -457,9 +457,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Assault Grenadier Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="ba12-664f-5d94-6c16">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -533,9 +533,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Marksman Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="81e9-91ea-e811-7b71">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Inertial Dampener" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="108a-555a-3251-464f">
@@ -587,9 +587,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Comms Specialist Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="bc98-9956-1abc-c687">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Signal (1 AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="b695-e637-518a-3176">
@@ -628,9 +628,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Medical Technician Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="7815-4ed9-854f-dbde">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Medikit (1 AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="b8e2-57c1-71fe-2342">
@@ -675,9 +675,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Drone Controller Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="21d2-74a1-2c2a-0c2d">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Remote Pilot (1 AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="99d3-c5c6-05da-8c0c">
@@ -725,9 +725,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="Shas&apos;La Pathfinder" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="6bde-c927-2479-924a">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Fearless on the Frontline" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="e39a-f0b3-5989-826a">
@@ -771,9 +771,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="MB3 Recon Drone" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="fd1a-31a5-ddbb-1bed">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">12</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">12</characteristic>
           </characteristics>
         </profile>
         <profile name="Analyse" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="10f7-ff4e-6076-8080">
@@ -857,9 +857,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="MV1 Gun Drone" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="af67-53dc-c302-ed76">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -908,9 +908,9 @@ While only some **PATHFINDER** operatives can perform the **Markerlight** actio
         <profile name="MV4 Shield Drone" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="5a9b-31f9-1409-a836">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -964,9 +964,9 @@ specified **DRONE** operative.</characteristic>
         <profile name="MV7 Shield Drone" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="cd6c-942b-adf3-d293">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="High-intensity Markerlight" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="2582-6dc9-0ffe-0d86">
@@ -1004,9 +1004,9 @@ specified **DRONE** operative.</characteristic>
         <profile name="MV31 Pulse Accelerator Drone" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="1a8d-1c87-552c-d7f4">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1058,9 +1058,9 @@ specified **DRONE** operative.</characteristic>
         <profile name="MV33 Grav-Inhibitor Drone" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="8a4b-14a5-1bf0-5fda">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Grav-inhibiter" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="9cd2-805a-5cd6-1ab6">

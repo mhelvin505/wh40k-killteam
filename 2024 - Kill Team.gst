@@ -58,9 +58,9 @@
     <profileType name="Operative" id="5156-3fb9-39ce-7bdb" hidden="false">
       <characteristicTypes>
         <characteristicType id="bc83-42aa-b7c1-f0b1" name="APL"/>
-        <characteristicType id="c996-ffb3-e0b4-ecfa" name="Move"/>
-        <characteristicType id="3241-5548-12d6-f103" name="Save"/>
-        <characteristicType id="74f9-f91c-b8fd-89d9" name="Wounds"/>
+        <characteristicType id="c996-ffb3-e0b4-ecfa" name="M"/>
+        <characteristicType id="3241-5548-12d6-f103" name="SV"/>
+        <characteristicType id="74f9-f91c-b8fd-89d9" name="W"/>
       </characteristicTypes>
     </profileType>
     <profileType name="Psychic Power" id="7b29-25f3-2906-18ec" hidden="false">
@@ -192,9 +192,9 @@
     <profile name="Shape Reference" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="31f0-6eb0-29da-8ba8">
       <characteristics>
         <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">⌖</characteristic>
-        <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
-        <characteristic name="Save" typeId="3241-5548-12d6-f103">▶</characteristic>
-        <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
+        <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
+        <characteristic name="SV" typeId="3241-5548-12d6-f103">▶</characteristic>
+        <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>

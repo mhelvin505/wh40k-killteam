@@ -102,9 +102,9 @@
         <profile name="Theyn" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="50c0-143a-9713-d6fa">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">9</characteristic>
           </characteristics>
         </profile>
         <profile name="Eye of the Ancestors" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="7d42-74a6-d450-9ab6">
@@ -178,9 +178,9 @@
         <profile name="Dôzr" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="304d-0188-dd95-88b5">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -213,9 +213,9 @@
         <profile name="Field Medic" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="719e-8960-1813-5302">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Medic!" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="eb47-5f3a-2b9d-4d1c">
@@ -285,9 +285,9 @@
         <profile name="Grenadier" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="e6a9-5eb5-1294-4279">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Grenadier" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="157a-d37f-ae55-073b">
@@ -534,9 +534,9 @@
         <profile name="Jump Pack Warrior" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="9c57-85a6-ec04-fa03">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">8&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">8&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Jump Pack" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="db2a-e8af-a5c7-53b6">
@@ -597,9 +597,9 @@
         <profile name="Kinlynk" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="63af-eb5e-f020-eabd">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Signal (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="6d84-eb40-bb2f-89f6">
@@ -625,9 +625,9 @@
         <profile name="Kognitâar" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="6818-c75a-3d75-c836">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Tactician" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="e5e4-ea94-39bc-222b">
@@ -669,9 +669,9 @@
         <profile name="Locâtr" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="2300-9d0b-0b37-f461">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Spot (1AP)" typeId="8f2a-d3d6-1a0c-7fa3" typeName="Unique Actions" hidden="false" id="4a59-e082-788c-2c5f">
@@ -725,9 +725,9 @@
         <profile name="Lugger" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="21b1-a976-a0af-cc19">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Well Supplied" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="5f01-3719-6e51-baad">
@@ -773,9 +773,9 @@
         <profile name="Warrior" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="9482-2a22-decf-ec17">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">3+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">5&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">3+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Secure Salvage" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="ea66-c90a-22b0-c8e6">

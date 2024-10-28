@@ -229,9 +229,9 @@ You cannot use this **STRATEGIC GAMBIT** and the Regroup strategy ploy during t
         <profile name="Death Korps Watchmaster" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="7933-7392-8c86-e408">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">8</characteristic>
           </characteristics>
         </profile>
         <profile name="Adaptive Orders" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="9719-e1b8-5bc3-c879">
@@ -542,9 +542,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Bruiser" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="32f4-43aa-c08e-c09c">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Bruiser" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="1d9b-fe08-78f3-6d5d">
@@ -594,9 +594,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Confidant" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="05a4-eb41-f0c4-0b85">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Second in Command" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="2d4f-ef56-8cb0-3eb6">
@@ -696,9 +696,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Gunner" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="3feb-f132-329e-46fe">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -855,9 +855,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Sniper" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="b53a-ec5f-5d9a-b580">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -939,9 +939,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Zealot" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="16e5-f18f-a0b7-cb51">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="The Emperor Protects" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="c446-2531-c0de-5011">
@@ -994,9 +994,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Vox-Operator" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="b786-5610-fde3-2080">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Relay Orders" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="29e2-46f4-7502-f6ef">
@@ -1023,9 +1023,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Veteran" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="707a-16fd-8a3b-d3b7">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Veteran Guardsman" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="61ab-5c4a-4f23-451c">
@@ -1077,9 +1077,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Spotter" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="4561-f736-5181-063d">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1147,9 +1147,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Sapper" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="95d8-c5d0-4554-77b1">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Mine Layer" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="9285-8fcd-1280-3170">
@@ -1213,9 +1213,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Medic" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="3745-fe55-527f-10d9">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Medic!" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="1c2b-e851-b23f-5215">
@@ -1255,9 +1255,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
         <profile name="Death Korps Trooper" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="e524-dd03-e4e0-108d">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">5+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">5+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">7</characteristic>
           </characteristics>
         </profile>
         <profile name="Group Activation" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="a571-f0c4-b8f4-70a6">
@@ -1286,9 +1286,9 @@ Whenever a friendly operative receives a **GUARDSMAN ORDER**, apply its rules un
     <profile name="Shape Reference" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="97e9-e3a2-5250-2b60">
       <characteristics>
         <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">⌖</characteristic>
-        <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
-        <characteristic name="Save" typeId="3241-5548-12d6-f103">▶</characteristic>
-        <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
+        <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
+        <characteristic name="SV" typeId="3241-5548-12d6-f103">▶</characteristic>
+        <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>

@@ -44,9 +44,9 @@
     <profile name="Shape Reference" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="3291-de1b-50e0-105b">
       <characteristics>
         <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">⌖</characteristic>
-        <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
-        <characteristic name="Save" typeId="3241-5548-12d6-f103">▶</characteristic>
-        <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
+        <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">⚔</characteristic>
+        <characteristic name="SV" typeId="3241-5548-12d6-f103">▶</characteristic>
+        <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">◆</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>
@@ -297,9 +297,9 @@
         <profile name="Scout Sergeant" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="37c9-8829-5a21-54f3">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">3</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">11</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">11</characteristic>
           </characteristics>
         </profile>
         <profile name="Guidance and Experience" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="99ab-a611-a548-f526">
@@ -418,9 +418,9 @@
         <profile name="Scout Heavy Gunner" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="1458-d2e9-d2cc-2a07">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -448,9 +448,9 @@
         <profile name="Scout Hunter" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="e716-f8a3-3770-8dfc">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="Grapnel Launcher" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="b756-d52b-7c7a-b66b">
@@ -486,9 +486,9 @@
         <profile name="Scout Sniper" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="2d5d-a228-e4dd-88ba">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="Camo Cloak" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="0a88-7cb6-7edd-322f">
@@ -573,9 +573,9 @@
         <profile name="Scout Tracker" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="44da-13c2-eac0-9a09">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -681,9 +681,9 @@ enemy operative.</characteristic>
         <profile name="Scout Warrior" typeId="5156-3fb9-39ce-7bdb" typeName="Operative" hidden="false" id="c489-1094-f870-bb3d">
           <characteristics>
             <characteristic name="APL" typeId="bc83-42aa-b7c1-f0b1">2</characteristic>
-            <characteristic name="Move" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
-            <characteristic name="Save" typeId="3241-5548-12d6-f103">4+</characteristic>
-            <characteristic name="Wounds" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
+            <characteristic name="M" typeId="c996-ffb3-e0b4-ecfa">6&quot;</characteristic>
+            <characteristic name="SV" typeId="3241-5548-12d6-f103">4+</characteristic>
+            <characteristic name="W" typeId="74f9-f91c-b8fd-89d9">10</characteristic>
           </characteristics>
         </profile>
         <profile name="Scout Warrior" typeId="f887-5881-0e6d-755c" typeName="Abilities" hidden="false" id="d9cc-7978-eedc-755a">
